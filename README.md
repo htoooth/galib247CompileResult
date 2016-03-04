@@ -1,5 +1,10 @@
 # GALIB win
-`GALIB` in windows.
+`[GALIB](http://lancet.mit.edu/ga/)` is a c++ library of genetic algorithm components. GAlib contains a set of C++ genetic algorithm objects. The library includes tools for using genetic algorithms to do optimization in any C++ program using any representation and genetic operators. The documentation includes an extensive overview of how to implement a genetic algorithm as well as examples illustrating customizations to the GAlib classes.
+
+----
+
+## What I do
+I compile it into library under `VS 2015` at `win7 64`.
 
 ## Download
 [Link](https://codeload.github.com/htoooth/galib247CompileResult/zip/master)
