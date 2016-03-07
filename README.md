@@ -13,7 +13,7 @@ I compile it into library under `VS 2015` at `win7 64`.
 You can copy all files from `result\vs2015` to `your\path`. Then configure your `library path` and `incloude path` in `visual studio IDE`.
 
 ## Please note
-Currently This library is compiled using `visual studio 2015`. I can not sure the result can be used in other visual studio, such as `vs2010`,`vs2012`. If you find the result is not effect, follow below steps to compile yourself library.
+Currently this library is compiled using `visual studio 2015`. I can not sure the result can be used in other visual studio, such as `vs2010`,`vs2012`. If you find the result is not effect, follow below steps to compile yourself library.
 
 ## How to compile
 
