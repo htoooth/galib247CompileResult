@@ -13,7 +13,7 @@ I compile it into library under `VS 2015` at `win7 64`.
 You can copy all files from `result\vs2015` to `your\path`. Then configure your `library path` and `include path` in `visual studio IDE`.
 
 ## Please note
-Currently this library is compiled using `visual studio 2015`. I can not sure the compiled result can be used in other older visual studio, such as `vs2010`, `vs2012`, etc. If find the result is not effect, you should be follow below steps in order to get the library by yourself.
+Currently this library is compiled using the latest version -- `visual studio 2015`. I can not sure the compiled result can be used in other older visual studio, such as `vs2010`, `vs2012`, etc. If find the result is not effect, you should be follow below steps in order to get the library by yourself.
 
 ## How to compile
 
