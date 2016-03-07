@@ -13,12 +13,12 @@ I compile it into library under `VS 2015` at `win7 64`.
 You can copy all files from `result\vs2015` to `your\path`. Then configure your `library path` and `include path` in `visual studio IDE`.
 
 ## Please note
-Currently this library is compiled using the latest version -- `visual studio 2015`. I can not sure the compiled result can be used in other older visual studio, such as `vs2010`, `vs2012`, etc. If find the result is not effect, you should be follow below steps in order to get the library by yourself.
+Currently this library is compiled using the latest version -- `visual studio 2015`. I can not sure the compiled result can be used in other older visual studio, such as `vs2010`, `vs2012`, etc. If find the result is not effect, you should be follow below steps in order to get the compiled library by yourself.
 
 ## How to compile
 
 ### Step 1
-Download this [repository](https://codeload.github.com/htoooth/galib247CompileResult/zip/master) and extract it to `your\path`.
+Download this [repository](https://codeload.github.com/htoooth/galib247CompileResult/zip/master) and extract it into `your\path`.
 
 ### Step 2
 Find your `VS IDE`'s `Developer Command Prompt Tool` and open it. Usually this tool locates in `Visual Studio Tools` folder. Note it's a console tool. When you open it, your can see a black windows.
