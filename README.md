@@ -13,7 +13,7 @@ I compile it into library under `VS 2015` at `win7 64`.
 You can copy all files from `result\vs2015` to `your\path`. Then configure your `library path` and `incloude path` in `visual studio IDE`.
 
 ## Please note
-Current This library is compiled using `visual studio 2015`. I can not sure the result can be used in other visual studio, such as `vs2010`,`vs2012`. If you find the result is not effect, follow below steps to compile yourself library.
+Currently This library is compiled using `visual studio 2015`. I can not sure the result can be used in other visual studio, such as `vs2010`,`vs2012`. If you find the result is not effect, follow below steps to compile yourself library.
 
 ## How to compile
 
@@ -21,10 +21,10 @@ Current This library is compiled using `visual studio 2015`. I can not sure the 
 Download this [repository](https://codeload.github.com/htoooth/galib247CompileResult/zip/master) and extract it to `you\path`.
 
 ### Step 2
-Find your `VS IDE`'s `Developer Command Prompt for VS2015` tool and open it. Note This tool is console tool. When you open it, your can see a black windows.
+Find your `VS IDE`'s `Developer Command Prompt Tool` and open it. Usually it locates in `Visual Studio Tools` folder. Note This tool is console tool. When you open it, your can see a black windows.
 
 ### Step 3
-Then change your work directory to `GALIB` root directory. You can use `cd /d your\GALIB\path` command.
+Use above window and change your work directory to `GALIB` root directory. You can use `cd /d your\GALIB\path` command.
 
 ### Step 4
 Type `nmake /f makefile.vcpp lib` and start to compile this library.
